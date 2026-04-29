@@ -1,10 +1,10 @@
 # Hi, I'm 3kaiu
 
-I build practical software around media workflows, automation, and developer tooling.
+Frontend developer, growing into full-stack, with a healthy amount of vibe AI coder energy.
 
-- Focused on Rust, TypeScript, and system-oriented product work
-- Interested in CLI/TUI tools, scraping pipelines, file systems, and NAS workflows
-- Prefer software that is fast, maintainable, and usable in real daily work
+- Mainly focused on React, TypeScript, and product-facing frontend work
+- Learning deeper backend and systems work through Rust, APIs, automation, and media workflows
+- I like software that feels practical, fast, and pleasant to use
 
 ## Featured Projects
 
@@ -21,24 +21,25 @@ NAS-first media manager with a Rust backend and React frontend.
 - Metadata scraping, duplicate detection, renaming, and file organization
 - Large-file handling and batch workflows
 - Designed for practical home server and media library management
+- A project where I push beyond frontend into full-stack product work
 
 ### [reader](https://github.com/3kaiu/reader)
-Reading-oriented application project built with TypeScript.
+Reading platform project spanning frontend, API, edge, and deployment workflows.
 
 ### [config](https://github.com/3kaiu/config)
 Personal Loon and Quantumult X configuration set with curated plugins and self-maintained scripts.
 
-## What I Like Building
+## What I'm Building Toward
 
-- Local-first tools
-- File and media pipelines
-- Terminal interfaces
-- Automation that removes repetitive work
-- Software with clear operational behavior
+- Stronger frontend engineering depth
+- More complete full-stack ownership
+- Better product taste
+- AI-assisted workflows that are actually useful
+- Tools that remove repetitive work
 
 ## Tech
 
-`Rust` `TypeScript` `React` `CLI` `TUI` `WebSocket` `SQLite` `NAS` `Automation`
+`React` `TypeScript` `Frontend` `Rust` `Full-Stack Learning` `CLI` `TUI` `WebSocket` `SQLite` `Automation`
 
 ## Links
 
