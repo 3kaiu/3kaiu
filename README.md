@@ -11,11 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3kaiu&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3kaiu&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,issues,contribs" />
 </p>
 
 <p align="center">
   I care about interface quality, product feel, and tools that make real workflows smoother.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Frontend%20Mode-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Full--Stack-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shipping-With%20AI-6D28D9?style=flat-square" />
 </p>
 
 ## About
@@ -71,6 +77,10 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
   <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-CLI%20%2F%20TUI-444444?style=flat-square&logo=gnubash&logoColor=ffffff" />
+</p>
+
+<p align="center">
+  <sub>Mostly frontend. Gradually more full-stack. Still trying to keep the taste level high.</sub>
 </p>
 
 <p align="center">
