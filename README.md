@@ -15,10 +15,16 @@
 </p>
 
 <p align="center">
+  <sub>Building useful things, learning in public, and trying not to let the AI vibes get out of hand.</sub>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Currently-Frontend%20Mode-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/Learning-Full--Stack-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Shipping-With%20AI-6D28D9?style=flat-square" />
 </p>
+
+---
 
 ## About
 
@@ -32,6 +38,8 @@
 - Taking on more full-stack ownership
 - Using AI to ship faster without turning everything into slop
 
+---
+
 ## Featured Projects
 
 ### [Medio](https://github.com/3kaiu/Medio)
@@ -39,14 +47,13 @@ Media file manager for rename, deduplication, metadata scraping, and organizatio
 
 - Rust CLI/TUI application
 - Single-binary workflow for local and NAS media libraries
-- Built around performance, preview-first operations, and maintainable pipelines
+- Preview-first operations and maintainable pipelines
 
 ### [cine](https://github.com/3kaiu/cine)
 NAS-first media manager with a Rust backend and React frontend.
 
 - Metadata scraping, duplicate detection, renaming, and file organization
 - Large-file handling and batch workflows
-- Practical home server and media library management
 - A project where I push beyond frontend into fuller product ownership
 
 ### [reader](https://github.com/3kaiu/reader)
@@ -54,6 +61,8 @@ Reading platform project spanning frontend, API, edge, and deployment workflows.
 
 ### [config](https://github.com/3kaiu/config)
 Personal Loon and Quantumult X configuration set with curated plugins and self-maintained scripts.
+
+---
 
 ## Focus
 
@@ -79,6 +88,10 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
   <sub>Mostly frontend. Gradually more full-stack. Still trying to keep the taste level high.</sub>
 </p>
 
+---
+
 ## Links
 
-- GitHub: [@3kaiu](https://github.com/3kaiu)
+<p align="center">
+  <a href="https://github.com/3kaiu">@3kaiu</a>
+</p>
