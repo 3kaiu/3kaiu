@@ -29,7 +29,7 @@
 ## About
 
 - Working mostly with React, TypeScript, and product-facing frontend work
-- Learning backend and systems depth through Rust, APIs, automation, and media workflows
+- Learning backend and systems depth through Rust and application workflows
 - Interested in products that feel practical, fast, and pleasant to use
 
 ## Now
@@ -59,9 +59,6 @@ NAS-first media manager with a Rust backend and React frontend.
 ### [reader](https://github.com/3kaiu/reader)
 Reading platform project spanning frontend, API, edge, and deployment workflows.
 
-### [config](https://github.com/3kaiu/config)
-Personal Loon and Quantumult X configuration set with curated plugins and self-maintained scripts.
-
 ---
 
 ## Focus
@@ -70,7 +67,7 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
 - Full-stack growth
 - Product taste
 - Useful AI-assisted workflows
-- Tools that remove repetitive work
+- Building things that are simple to use and worth keeping open
 
 ## Stack
 
@@ -79,9 +76,10 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CLI%20%2F%20TUI-444444?style=flat-square&logo=gnubash&logoColor=ffffff" />
 </p>
 
 <p align="center">
