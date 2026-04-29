@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3kaiu&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,issues,contribs" />
-</p>
-
-<p align="center">
   I care about interface quality, product feel, and tools that make real workflows smoother.
 </p>
 
@@ -81,10 +77,6 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
 
 <p align="center">
   <sub>Mostly frontend. Gradually more full-stack. Still trying to keep the taste level high.</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3kaiu&layout=compact&hide_border=true" />
 </p>
 
 ## Links
