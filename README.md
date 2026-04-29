@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 3kaiu</h1>
 
 <p align="center">
-  Frontend developer, growing into full-stack, with a healthy amount of vibe AI coder energy.
+  Frontend developer building toward full-stack, with a little vibe AI coder energy.
 </p>
 
 <p align="center">
@@ -11,14 +11,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3kaiu&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3kaiu&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" />
 </p>
 
-## About Me
+<p align="center">
+  I care about interface quality, product feel, and tools that make real workflows smoother.
+</p>
 
-- Mainly focused on React, TypeScript, and product-facing frontend work
-- Learning deeper backend and systems work through Rust, APIs, automation, and media workflows
-- I like software that feels practical, fast, and pleasant to use
+## About
+
+- Working mostly with React, TypeScript, and product-facing frontend work
+- Learning backend and systems depth through Rust, APIs, automation, and media workflows
+- Interested in products that feel practical, fast, and pleasant to use
+
+## Now
+
+- Sharpening frontend engineering taste
+- Taking on more full-stack ownership
+- Using AI to ship faster without turning everything into slop
 
 ## Featured Projects
 
@@ -34,8 +44,8 @@ NAS-first media manager with a Rust backend and React frontend.
 
 - Metadata scraping, duplicate detection, renaming, and file organization
 - Large-file handling and batch workflows
-- Designed for practical home server and media library management
-- A project where I push beyond frontend into full-stack product work
+- Practical home server and media library management
+- A project where I push beyond frontend into fuller product ownership
 
 ### [reader](https://github.com/3kaiu/reader)
 Reading platform project spanning frontend, API, edge, and deployment workflows.
@@ -43,17 +53,17 @@ Reading platform project spanning frontend, API, edge, and deployment workflows.
 ### [config](https://github.com/3kaiu/config)
 Personal Loon and Quantumult X configuration set with curated plugins and self-maintained scripts.
 
-## What I'm Building Toward
+## Focus
 
-- Stronger frontend engineering depth
-- More complete full-stack ownership
-- Better product taste
-- AI-assisted workflows that are actually useful
+- Frontend craftsmanship
+- Full-stack growth
+- Product taste
+- Useful AI-assisted workflows
 - Tools that remove repetitive work
 
 ## Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
@@ -61,6 +71,10 @@ Personal Loon and Quantumult X configuration set with curated plugins and self-m
   <img src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-CLI%20%2F%20TUI-444444?style=flat-square&logo=gnubash&logoColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3kaiu&layout=compact&hide_border=true" />
 </p>
 
 ## Links
