@@ -40,27 +40,6 @@
 
 ---
 
-## Featured Projects
-
-### [Medio](https://github.com/3kaiu/Medio)
-Media file manager for rename, deduplication, metadata scraping, and organization.
-
-- Rust CLI/TUI application
-- Single-binary workflow for local and NAS media libraries
-- Preview-first operations and maintainable pipelines
-
-### [cine](https://github.com/3kaiu/cine)
-NAS-first media manager with a Rust backend and React frontend.
-
-- Metadata scraping, duplicate detection, renaming, and file organization
-- Large-file handling and batch workflows
-- A project where I push beyond frontend into fuller product ownership
-
-### [reader](https://github.com/3kaiu/reader)
-Reading platform project spanning frontend, API, edge, and deployment workflows.
-
----
-
 ## Focus
 
 - Frontend craftsmanship
@@ -86,10 +65,20 @@ Reading platform project spanning frontend, API, edge, and deployment workflows.
   <sub>Mostly frontend. Gradually more full-stack. Still trying to keep the taste level high.</sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-UI%20Taste-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DX-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Performance-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Automation-4B5563?style=flat-square" />
+</p>
+
 ---
 
 ## Links
 
 <p align="center">
-  <a href="https://github.com/3kaiu">@3kaiu</a>
+  <a href="https://github.com/3kaiu">@3kaiu</a> ·
+  <a href="https://github.com/3kaiu/Medio">Medio</a> ·
+  <a href="https://github.com/3kaiu/cine">cine</a> ·
+  <a href="https://github.com/3kaiu/reader">reader</a>
 </p>
